@@ -1,0 +1,13 @@
+Project_Folder/
+│-- conftest.py
+│-- Utilities.py
+│-- Pages/
+│   │-- __init__.py
+│   │-- login_page.py
+│   │-- checkboxes_page.py
+│   │-- download_page.py
+│-- Tests/
+│   │-- __init__.py
+│   │-- test_login.py
+│   │-- test_checkboxes.py
+│   │-- test_download.py
